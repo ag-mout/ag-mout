@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hey there 👋
 
+**Maths guy through and through. You can always find me entrenched in Python, datasets and grabbing rabbits from the rabbit hole!**
+
+You can check my [*forget me nots*](https://github.com/ag-mout/forget-me-nots) for my personal notes or find me around on:
+- <img width="16" height="16" alt="faviconV2" src="https://github.com/user-attachments/assets/4c4c2cba-9ab0-480e-a5a5-4d49271969f8" /> LinkedIn - [agmoutinho](https://linkedin.com/in/agmoutinho/)
+- <img width="16" height="16" alt="faviconV2" src="https://github.com/user-attachments/assets/b967caf6-e4ca-42af-a25c-d3efa1d4b83a" /> Huggingface - [andregustavo](https://huggingface.co/andregustavo)
+- <img width="16" height="16" alt="faviconV2" src="https://github.com/user-attachments/assets/7a5117f0-fee5-47e5-8175-6a34838415ae" /> Reddit: [ag-mout](https://reddit.com/user/ag-mout/)
 <!--
 **ag-mout/ag-mout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
